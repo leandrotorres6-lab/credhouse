@@ -32,7 +32,7 @@ export default function Header() {
           {/* Logo */}
           <a href="#hero" className="flex items-center gap-2">
             <img
-              src="/Gemini_Generated_Image_iwx9leiwx9leiwx9.png"
+              src="/WhatsApp_Image_2026-05-04_at_11.52.32.jpeg"
               alt="CredHouse"
               className="h-10 md:h-12 w-auto"
             />

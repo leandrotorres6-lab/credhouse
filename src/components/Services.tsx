@@ -40,7 +40,7 @@ const services = [
     color: 'bg-sky-50 text-sky-700',
     accent: 'border-sky-200',
     title: 'Portabilidade de Credito',
-    desc: 'Transfira seu contrato para a CREDHOUSE e pague menos. Reduce suas parcelas e melhore suas condicoes.',
+    desc: 'Transfira seu contrato para outro Banco parceiro e pague menos . Reduz suas parcelas e melhore suas condicoes de taxas de juros.',
     badge: null,
   },
 ];

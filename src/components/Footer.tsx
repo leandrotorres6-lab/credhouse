@@ -22,7 +22,7 @@ export default function Footer() {
             <div className="flex items-start gap-2 text-sm text-white/50">
               <Shield size={16} className="text-[#f0b429] mt-0.5 flex-shrink-0" />
               <span>
-                <strong className="text-white/80">CNPJ:</strong> XX.XXX.XXX/0001-XX
+                <strong className="text-white/80">CNPJ:</strong> 58.194.926/0001-45
               </span>
             </div>
           </div>
